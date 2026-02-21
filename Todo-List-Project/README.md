@@ -8,8 +8,7 @@ A clean, browser-based todo list app built with vanilla JavaScript, CSS Grid, an
 
 ---
 
-<!-- Add screenshot: drag & drop in GitHub editor -->
-![Screenshot](https://via.placeholder.com/800x450?text=Screenshot+Placeholder)
+<img width="993" height="562" alt="Demo" src="https://github.com/user-attachments/assets/427b01bf-86ef-4b50-9a4f-b7ed87eceb00" />
 
 ---
 
