@@ -5,8 +5,7 @@ A classic Snake game built as a desktop application in Java using Swing and AWT.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 
-<!-- PLACEHOLDER: Add gameplay GIF here — drag & drop in the GitHub editor -->
-![Gameplay](https://via.placeholder.com/600x600?text=Gameplay+GIF+Placeholder)
+https://github.com/user-attachments/assets/8e4472c1-ec1c-450f-b58f-f2779827da06
 
 ## Tech Stack & Architecture
 
