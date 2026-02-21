@@ -87,6 +87,7 @@ class Game extends JPanel implements ActionListener,KeyListener{
         {
             g.setColor(Color.red);
             g.drawString("Game Over: " +String.valueOf(snakeBody.size()),titleSize-16,titleSize);
+            g.drawString("Press SPACE to restart",titleSize-16,titleSize+20);
         }
         else
         {
@@ -177,6 +178,17 @@ class Game extends JPanel implements ActionListener,KeyListener{
         {
             velocityX=1;
             velocityY=0;
+        }
+        else if(e.getKeyCode()== KeyEvent.VK_SPACE && gameOver)
+        {
+            snakeHead.x=5;
+            snakeHead.y=5;
+            snakeBody.clear();
+            velocityX=0;
+            velocityY=1;
+            gameOver=false;
+            placeFood();
+            gameLoop.start();
         }
     }
     @Override
