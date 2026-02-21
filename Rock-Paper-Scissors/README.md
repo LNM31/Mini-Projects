@@ -6,8 +6,7 @@ A classic Rock Paper Scissors game built with vanilla JavaScript, featuring scor
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<!-- Add screenshot: drag & drop in GitHub editor -->
-![Screenshot](https://via.placeholder.com/800x450?text=Screenshot+Placeholder)
+<img width="807" height="637" alt="Demo" src="https://github.com/user-attachments/assets/82a42918-91bb-4446-a4e8-31a0ef0db8c1" />
 
 ## Tech Stack
 
@@ -21,7 +20,7 @@ No dependencies or build tools required — just static files.
 
 ```bash
 git clone https://github.com/LNM31/Mini-Projects.git
-cd <repo-name>
+cd Rock-Paper-Scissors
 ```
 
 Open `12-rock-paper-scissors.html` in your browser.
