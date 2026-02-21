@@ -9,13 +9,12 @@ A browser-based Flappy Bird clone built with vanilla JavaScript and the HTML5 Ca
 
 ## Demo
 
-<!-- PLACEHOLDER: Replace with a GIF of actual gameplay — drag & drop into the GitHub editor -->
-![Gameplay](https://via.placeholder.com/360x640?text=Gameplay+GIF+Placeholder)
+https://github.com/user-attachments/assets/577531d8-ddc1-45e0-b6e4-2176f316e611
 
 ## How to Run
 
 ```bash
-git clone https://github.com/<your-username>/Flappy-Bird.git
+git clone https://github.com/LNM31/Mini-Projects.git
 cd Flappy-Bird
 ```
 
