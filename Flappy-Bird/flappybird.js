@@ -31,7 +31,7 @@ let bottomPipeImg;
 //physics
 let velocityX=-2;//pipe urile se misca la stanga
 let velocityY=0; //bird jump speed
-let gravity=0.4;
+let gravity=0.23;
 
 let gameOver=false;
 let score=0;
