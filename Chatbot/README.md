@@ -14,10 +14,7 @@ A real-time chatbot web app with persistent conversations, built with React 19 a
 
 ---
 
-<!-- Add screenshot: drag & drop in GitHub editor -->
-![Screenshot](https://via.placeholder.com/800x450?text=Screenshot+Placeholder)
-
-<!-- PLACEHOLDER: Replace the above with an actual screenshot of the app -->
+<img width="1566" height="1743" alt="Demo" src="https://github.com/user-attachments/assets/8e4cc6d1-182f-4c22-ae53-643357b3b802" />
 
 ## Tech Stack
 
@@ -42,8 +39,6 @@ node --version
 # If not installed, download from:
 # https://nodejs.org/
 ```
-
-<!-- PLACEHOLDER: Add your preferred Node.js version if applicable -->
 
 ## Getting Started
 
@@ -173,4 +168,5 @@ chatbot-project-ts/
   time: number;     // Unix timestamp via dayjs().valueOf()
 }
 ```
+
 
